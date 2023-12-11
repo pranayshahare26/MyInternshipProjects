@@ -3,8 +3,8 @@
 
 🔒 Project Showcase: Week 1 at MotionCut 🔒
 
-**Title: Building a Secure Password Generator with Python
-**
+Title: Building a Secure Password Generator with Python
+
 In today's digital age, security is paramount. With cyber threats becoming increasingly sophisticated, it's crucial to have strong and secure passwords to protect your online accounts. That's why I've spent the first week on a project that focuses on enhancing our online security with a Python-based Password Generator.
 
 🌐 Project Description:
