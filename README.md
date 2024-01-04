@@ -12,3 +12,7 @@ Title: Text-based Adventure Game Development with Python
 🔒 Project Showcase: Week 3 at MotionCut 🔒
 
 Title: To-Do List Application
+
+🔒 Project Showcase: Week 4 at MotionCut 🔒
+
+Title: Temperature Converter! 🌡️💻
